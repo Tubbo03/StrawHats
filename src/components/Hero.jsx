@@ -18,7 +18,9 @@ const Hero = () => {
             A dynamic team of developers collaborating to innovate and <br className="sm:block hidden"/> translating ideas into functional code
           </p>
          </div>
+        
        </div>
+      <ComputersCanvas/>
      </section>
   )
 }
